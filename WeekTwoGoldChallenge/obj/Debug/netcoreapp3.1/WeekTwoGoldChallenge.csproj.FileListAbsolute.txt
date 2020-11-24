@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\bin\Debug\netcoreapp3.1\WeekTwoGoldChallenge.exe
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\bin\Debug\netcoreapp3.1\WeekTwoGoldChallenge.deps.json
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\bin\Debug\netcoreapp3.1\WeekTwoGoldChallenge.runtimeconfig.json
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\bin\Debug\netcoreapp3.1\WeekTwoGoldChallenge.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\bin\Debug\netcoreapp3.1\WeekTwoGoldChallenge.dll
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\bin\Debug\netcoreapp3.1\WeekTwoGoldChallenge.pdb
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\obj\Debug\netcoreapp3.1\WeekTwoGoldChallenge.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\obj\Debug\netcoreapp3.1\WeekTwoGoldChallenge.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\obj\Debug\netcoreapp3.1\WeekTwoGoldChallenge.AssemblyInfo.cs
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\obj\Debug\netcoreapp3.1\WeekTwoGoldChallenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\obj\Debug\netcoreapp3.1\WeekTwoGoldChallenge.dll
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\obj\Debug\netcoreapp3.1\WeekTwoGoldChallenge.pdb
+C:\ElevenFiftyProjects\WeekOneGoldChallenge\WeekTwoGoldChallenge\obj\Debug\netcoreapp3.1\WeekTwoGoldChallenge.genruntimeconfig.cache

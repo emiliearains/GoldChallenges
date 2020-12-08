@@ -22,7 +22,7 @@ namespace WeekTwoGoldChallenge
         public string TimeGreetingToName(string name)
         {
             DateTime currTime = DateTime.Now;
-            string returnString = "";
+            string returnString;
             if (currTime.Hour < 12)
             {
                 returnString = $"Good morning, {name}.";

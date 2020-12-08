@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\bin\Debug\netcoreapp3.1\WeekFourGold Challenge.exe
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\bin\Debug\netcoreapp3.1\WeekFourGold Challenge.deps.json
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\bin\Debug\netcoreapp3.1\WeekFourGold Challenge.runtimeconfig.json
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\bin\Debug\netcoreapp3.1\WeekFourGold Challenge.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\bin\Debug\netcoreapp3.1\WeekFourGold Challenge.dll
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\bin\Debug\netcoreapp3.1\WeekFourGold Challenge.pdb
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\obj\Debug\netcoreapp3.1\WeekFourGold Challenge.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\obj\Debug\netcoreapp3.1\WeekFourGold Challenge.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\obj\Debug\netcoreapp3.1\WeekFourGold Challenge.AssemblyInfo.cs
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\obj\Debug\netcoreapp3.1\WeekFourGold Challenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\obj\Debug\netcoreapp3.1\WeekFourGold Challenge.dll
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\obj\Debug\netcoreapp3.1\WeekFourGold Challenge.pdb
+C:\ElevenFiftyProjects\GoldChallenges\WeekFourGold Challenge\obj\Debug\netcoreapp3.1\WeekFourGold Challenge.genruntimeconfig.cache

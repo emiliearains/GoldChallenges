@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekTwoGoldChallenge\\WeekTwoGoldChallenge.csproj": {}
+    "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekFourGold Challenge\\WeekFourGold Challenge.csproj": {}
   },
   "projects": {
-    "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekTwoGoldChallenge\\WeekTwoGoldChallenge.csproj": {
+    "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekFourGold Challenge\\WeekFourGold Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekTwoGoldChallenge\\WeekTwoGoldChallenge.csproj",
-        "projectName": "WeekTwoGoldChallenge",
-        "projectPath": "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekTwoGoldChallenge\\WeekTwoGoldChallenge.csproj",
+        "projectUniqueName": "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekFourGold Challenge\\WeekFourGold Challenge.csproj",
+        "projectName": "WeekFourGold Challenge",
+        "projectPath": "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekFourGold Challenge\\WeekFourGold Challenge.csproj",
         "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
-        "outputPath": "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekTwoGoldChallenge\\obj\\",
+        "outputPath": "C:\\ElevenFiftyProjects\\GoldChallenges\\WeekFourGold Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",

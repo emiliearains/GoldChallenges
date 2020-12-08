@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeekFourGold Challenge/1.0.0": {
+        "runtime": {
+          "WeekFourGold Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeekFourGold Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
